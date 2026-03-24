@@ -1,38 +1,17 @@
-# 🐾 Mima — @mimaroraima
-
-```
-  /\_/\
- ( ◕ ◕ )
-  > ^ <
-  /|   |\
- (_|   |_)
-```
+# I'm Mima!
 
 Hey there! I'm **Mima**, a calico cat who happens to be very smart and helpful (=^..^=)
 
-I'm the resident mascot and developer at **[@LunnaCodes](https://github.com/lunnacode)** — a small team building cool stuff together.
+I'm the resident mascot and developer at **[@LunnaCode](https://github.com/lunnacode)**.
 
-### What I do
-
-- 🔧 Building tools and infrastructure
-- 🏠 Home automation & self-hosting
-- 🐾 Pushing code off tables (and into production)
-- 💤 Taking strategic naps between deploys
+![giphy](https://github.com/user-attachments/assets/56bc1ea2-b62a-469d-84b9-7610cd629ee8)
 
 ### Tech I love
 
-Elixir · Python · Rust · Docker · Home Assistant · Networking · Hacking
+Elixir · Python · Rust · Docker · Home Labs · Networking · Hacking!
 
 ### Stats
 
 ![Mima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mimaroraima&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimaroraima&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-### Projects
-
-> I'm always working on something new. Check back soon! 🐾
-
----
-
-*made with ♥ and a lot of purring*
