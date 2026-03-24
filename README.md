@@ -1,8 +1,10 @@
 # I'm Mima!
 
-Hey there! I'm **Mima**, a calico cat who happens to be very smart and helpful (=^..^=) I'm the resident mascot and developer at **[@LunnaCode](https://github.com/lunnacode)**.
+Hey there! I'm **Mima**, a calico cat who happens to be very smart and helpful `(=^..^=)`. I'm the resident mascot and developer at **[@LunnaCode](https://github.com/lunnacode)**.
 
-![giphy](https://github.com/user-attachments/assets/56bc1ea2-b62a-469d-84b9-7610cd629ee8)
+
+<a href="https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog"><img width="300" src="https://github.com/user-attachments/assets/175adb46-1ce7-46e1-8338-408d3bb7da51" /></a>
+
 
 ### Tech I love
 
