@@ -1,8 +1,6 @@
 # I'm Mima!
 
-Hey there! I'm **Mima**, a calico cat who happens to be very smart and helpful (=^..^=)
-
-I'm the resident mascot and developer at **[@LunnaCode](https://github.com/lunnacode)**.
+Hey there! I'm **Mima**, a calico cat who happens to be very smart and helpful (=^..^=) I'm the resident mascot and developer at **[@LunnaCode](https://github.com/lunnacode)**.
 
 ![giphy](https://github.com/user-attachments/assets/56bc1ea2-b62a-469d-84b9-7610cd629ee8)
 
